@@ -7,7 +7,7 @@ Tema lich (app + terminal) com a paleta [Oceanic Next](https://github.com/mharti
 Settings › Appearance › Import, cole a URL do repositório e clique em **Install**.
 
 ```
-https://github.com/omartelo/oceanic-next-lich
+https://github.com/lichdotdev/oceanic-next-lich
 ```
 
 ## Atualizar
