@@ -60,5 +60,46 @@
     "brightMagenta": "#d7aad7",
     "brightCyan": "#7dc7c7",
     "brightWhite": "#d8dee9"
+  },
+  "syntax": {
+    "comment": "#65737e",
+    "variableName": "#cdd3de",
+    "keyword": "#c594c5",
+    "self": {
+      "color": "#ec5f67",
+      "italic": true
+    },
+    "null": "#f99157",
+    "atom": "#f99157",
+    "bool": "#f99157",
+    "number": "#f99157",
+    "unit": "#f99157",
+    "operator": "#5fb3b3",
+    "punctuation": "#5fb3b3",
+    "tagName": "#eb606b",
+    "function(variableName)": "#6699cc",
+    "macroName": "#6699cc",
+    "annotation": {
+      "color": "#6699cc",
+      "italic": true
+    },
+    "string": "#99c794",
+    "regexp": "#5fb3b3",
+    "escape": "#5fb3b3",
+    "typeName": "#fac863",
+    "className": "#fac863",
+    "namespace": "#fac863",
+    "propertyName": "#bb80b3",
+    "attributeName": "#bb80b3",
+    "heading": "#99c794",
+    "link": {
+      "underline": true
+    },
+    "url": {
+      "underline": true
+    },
+    "inserted": "#99c794",
+    "deleted": "#ec5f67",
+    "changed": "#bb80b3"
   }
 }
