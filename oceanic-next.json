@@ -65,31 +65,25 @@
     "comment": "#65737e",
     "variableName": "#cdd3de",
     "keyword": "#c594c5",
-    "self": {
-      "color": "#ec5f67",
-      "italic": true
-    },
-    "null": "#f99157",
+    "self": "#c594c5",
+    "null": "#c594c5",
     "atom": "#f99157",
-    "bool": "#f99157",
+    "bool": "#c594c5",
     "number": "#f99157",
     "unit": "#f99157",
     "operator": "#5fb3b3",
     "punctuation": "#5fb3b3",
-    "tagName": "#eb606b",
+    "tagName": "#ec5f67",
     "function(variableName)": "#6699cc",
     "macroName": "#6699cc",
-    "annotation": {
-      "color": "#6699cc",
-      "italic": true
-    },
+    "annotation": "#81a87d",
     "string": "#99c794",
     "regexp": "#5fb3b3",
     "escape": "#5fb3b3",
     "typeName": "#fac863",
     "className": "#fac863",
     "namespace": "#fac863",
-    "propertyName": "#bb80b3",
+    "propertyName": "#f99157",
     "attributeName": "#bb80b3",
     "heading": "#99c794",
     "link": {
@@ -100,6 +94,10 @@
     },
     "inserted": "#99c794",
     "deleted": "#ec5f67",
-    "changed": "#bb80b3"
+    "changed": "#bb80b3",
+    "derefOperator": "#5fb3b3",
+    "function(propertyName)": "#6699cc",
+    "labelName": "#f99157",
+    "invalid": "#cc545c"
   }
 }
