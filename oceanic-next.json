@@ -98,6 +98,8 @@
     "derefOperator": "#5fb3b3",
     "function(propertyName)": "#6699cc",
     "labelName": "#f99157",
-    "invalid": "#cc545c"
+    "invalid": "#cc545c",
+    "definition(local(variableName))": "#f99157",
+    "standard(variableName)": "#6699cc"
   }
 }
